@@ -1,0 +1,13 @@
+﻿@import "layout.css";
+@import "styles.css";
+
+/* some base classes that will be used sitewide */
+
+*{
+	padding:0;margin:0;
+}
+
+.bn{ border:none;}
+.fr{float:right;}
+.fl{float:left;}
+.cb{clear:both;}

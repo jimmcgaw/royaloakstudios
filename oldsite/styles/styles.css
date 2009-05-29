@@ -1,0 +1,24 @@
+﻿ul.site_nav{
+	list-style:none;
+}
+
+li.site_nav{
+	float:left;
+}
+
+a.site_nav{
+	color:white;
+	font-family:Arial;
+	display:block;
+	float:left;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:11px;
+	padding:0 15px;
+	height:25px;
+	line-height:25px;
+	border-right:solid 1px white;
+}
+a.site_nav:hover{
+	text-decoration:underline;
+}

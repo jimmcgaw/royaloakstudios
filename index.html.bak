@@ -1,0 +1,65 @@
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+        <head>
+            <title>Santa Barbara Web Marketing & SEO Solutions - Royal Oak Studios</title>
+            <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+            <link rel="stylesheet" type="text/css" href="basic.css" />
+        </head>
+
+        <body>
+
+            <div id="first_container">
+                <div id="second_container">
+                    <div id="third_container">
+                    
+
+                    
+                        <ul id="menu">
+                            <li><a href="">Contact</a></li>
+                            <li><a href="">Portfolio</a></li>
+                            <li><a href="">Services</a></li>
+                            <li><a href="">About</a></li>
+                            <li><span id="menuselected">Home</span></li>
+                        </ul>
+                        
+                        <div class="title"></div>
+
+                        <div class="border">
+                        <div id="logobox">
+                               <a href="/">
+                                  <img src="images/roslogo_med.gif" alt="" style="border:none;" />
+                               </a>
+                        </div>
+                        <div class="sidecontent"></div>
+                            
+                            <div class="content">
+                            
+                                    <h1>Royal Oak Studios</h1>
+                                    <div class="text">
+                                        Web Design and Marketing. 
+                                         A web marketing company with the experience to take your company to the next level.	
+                                        <br/>
+                                        Increase your online presence and business with marketing tools that will raise your rankings, sales, and company presence.
+                                        <span class="note">
+					Website Design/Web Marketing/SEO/Email Marketing				</span>
+                                        Contact us today for a free quote. <a href="mailto:info@royaloakstudios.com">Email us</a>.
+                                    </div>
+                                    
+                            </div>
+                            
+                        
+                        </div>
+
+                                                <div class="designinfo">
+                            Contact | About | &copy; 2008 Royal Oak Studios
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+                    
+        </body>
+        
+    </html>
+    
